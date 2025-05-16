@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @WrenMCarter
+/src/backend/database.py      @WrenMCarter
+/src/backend/routers/auth.py  @WrenMCarter
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @WrenMCarter
